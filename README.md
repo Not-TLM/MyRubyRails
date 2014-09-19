@@ -1,4 +1,4 @@
 MyRubyRails
 ===========
 
-repository for my rails practice
+repository for my rails project
